@@ -5,3 +5,4 @@ Now I'm study in software engineering.
 I am the web developer.
 I have completed my HSC in 2020.
 I have not yet graduated from any varsity . 
+I have started learning full stack web development from 2023.
